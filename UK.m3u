@@ -12,7 +12,7 @@ http://51.52.156.22:8888/http/004
 http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="NEWS",ABC NEWS (US)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC NEWS (US)
 https://abclive1-lh.akamaihd.net/i/abc_preview02@425077/index_100_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News [720p]
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
@@ -20,23 +20,21 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Live [720p]
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
-#EXTINF:-1 tvg-id="Film4UK.uk" tvg-name="Film 4 UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Film 4 UK
+#EXTINF:-1 tvg-id="Film4UK.uk" tvg-name="Film 4 UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Movies",Film 4 UK
 http://51.52.156.22:8888/http/008
-#EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="",Hala London (1080p)
-https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="ITV",ITV
 https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV2
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="ITV",ITV2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV3
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="ITV",ITV3
 http://51.52.156.22:8888/http/006
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV4
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="ITV",ITV4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-id="SpotlightTV.uk" tvg-name="Spotlight TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/axXipp8.png" group-title="",Spotlight TV
+#EXTINF:-1 tvg-id="SpotlightTV.uk" tvg-name="Spotlight TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/axXipp8.png" group-title="News",Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-name="The Box UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Music",The Box UK (576p)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 tvg-id="Film4UK.uk" tvg-name="Film 4 UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Film 4 UK
+#EXTINF:-1 tvg-id="Film4UK.uk" tvg-name="Film 4 UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Movies",Film 4 UK
 http://51.52.156.22:8888/http/008
 #EXTINF:0,xmltv.php?username=nestorpereiralinares@hotmail.com&password=hn4tgefc3e&type=m3u_plus&output=ts
 http://iconic-streams.com/xmltv.php?username=nestorpereiralinares@hotmail.com&password=hn4tgefc3e&type=m3u_plus&output=ts
@@ -74,4 +72,3 @@ http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2413
 http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/6330
 #EXTINF:0,UK: Smithsonian Channel FHD
 http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/9724
-
