@@ -28,6 +28,8 @@ https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 #EXTINF:0 tvg-name="24h RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="24h RTVE" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I" group-title="News",24h RTVE (News) (ES) (Spanish)
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-name="France 24" tvg-language="English" tvg-country="FR" tvg-id="France 24" tvg-logo="http://www.ecfr.eu/page/-/France_24.png?v=1440585546204" group-title="News",France 24 (News) (FR) (English)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_250.m3u8
 #EXTINF:-1 tvg-id="Film4UK.uk" tvg-name="Film 4 UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Movies",Film 4 UK
 http://51.52.156.22:8888/http/008
 #EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="ITV",ITV
