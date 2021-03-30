@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1,UK
+#PLAYLIST:News
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News (720p) [Geo-blocked]
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News (720p)
@@ -32,6 +33,7 @@ http://51.52.156.22:8888/http/006
 http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-id="SpotlightTV.uk" tvg-name="Spotlight TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/axXipp8.png" group-title="News",Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#PLAYLIST:Movies
 #EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-name="The Box UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Music",The Box UK (576p)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="Film4UK.uk" tvg-name="Film 4 UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Movies",Film 4 UK
