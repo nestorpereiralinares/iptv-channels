@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1,UK
 #PLAYLIST:News
-#EXTM3U
 #EXTINF:0 tvg-name="BBC One YkandLi" tvg-logo="file:////storage/emulated/0/Download/picons/bbc1.png",BBC One HD
 http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0 tvg-name="BBC Two Eng" tvg-logo="file:////storage/emulated/0/Download/picons/bbc2.png",BBC Two HD
@@ -63,43 +62,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 http://51.52.156.22:8888/http/008
 #EXTINF:0 tvg-name="AXN" tvg-language="English" tvg-country="UK" tvg-id="AXN" tvg-logo="http://cdn.lipstiq.com/wp-content/uploads/2015/10/112.jpg" group-title="Movie Channels",AXN (Movie Channels) (UK) (English)
 http://178.21.120.198:1935/live3/_definst_/mp4:axn/playlist.m3u8
-#EXTINF:0,xmltv.php?username=nestorpereiralinares@hotmail.com&password=hn4tgefc3e&type=m3u_plus&output=ts
-http://iconic-streams.com/xmltv.php?username=nestorpereiralinares@hotmail.com&password=hn4tgefc3e&type=m3u_plus&output=ts
-#EXTINF:0,IE: RTÉ News FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/3510
-#EXTINF:0,UK: BBC One FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/4075
-#EXTINF:0,UK: BBC Two FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/4216
-#EXTINF:0,UK: BBC Four FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/4205
-#EXTINF:0,UK: BBC Two Northern Ireland
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/10042
-#EXTINF:0,UK: Channel 4 FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2982
-#EXTINF:0,UK: Skʌɪ Atlantic FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/3000
-#EXTINF:0,UK: Skʌɪ Cinema Greats FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/8913
-#EXTINF:0,UK: Skʌɪ Cinema Select FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/8910
-#EXTINF:0,UK: Skʌɪ History2 FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/3523
-#EXTINF:0,UK: Sony Classic
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2993
-#EXTINF:0,UK: TCM Movies 
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2436
-#EXTINF:0,UK: Skʌɪ Sports Main Event
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/9546
-#EXTINF:0,UK: Skʌɪ Sports Premier League FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/8895
-#EXTINF:0,UK: Discovery History
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2413
-#EXTINF:0,UK: PBS America
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/6330
-#EXTINF:0,UK: Smithsonian Channel FHD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/9724
-
+#PLAYLIST:Canada News
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="News",BBC Toronto Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
@@ -107,24 +70,7 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 2
 http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
+#PLAYLIST:USA News
 #PLAYLIST:News
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="News",CNN (720p)
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
@@ -140,9 +86,9 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-name="CBS News Boston" tvg-country="US" tvg-language="English" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/logo-cbsn-boston-1920x1080.jpg" group-title="News",CBS News Boston (720p)
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
-#EXTINF:-1 tvg-id="7NewsBostonWHDH.us" tvg-name="7News Boston (WHDH)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="Local",7News Boston (WHDH) (540p)
+#EXTINF:-1 tvg-id="7NewsBostonWHDH.us" tvg-name="7News Boston (WHDH)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="News",7News Boston (WHDH) (540p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 tvg-id="FOX Boston-US" tvg-name="FOX Boston-US" tvg-country="US" tvg-language="English" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="Local",Boston 25 News (WFXT)
+#EXTINF:-1 tvg-id="FOX Boston-US" tvg-name="FOX Boston-US" tvg-country="US" tvg-language="English" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="News",Boston 25 News (WFXT)
 https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
 #EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Entertainment",A&E (Best of) (1080p)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
@@ -152,11 +98,15 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsDigital10.us" tvg-name="ABC News Digital 10" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 10 (720p)
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",NBC (720p)
+#EXTINF:-1 tvg-id="tv.101002210221" tvg-name="ABC Australia" tvg-language="English" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC1_60x53.png" group-title="News",ABC
+https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Australia News" tvg-language="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="News",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",NBC (720p)
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-id="NBC4NewYorkWNBC.us" tvg-name="NBC 4 New York (WNBC)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",NBC 4 New York (WNBC) (720p)
+#EXTINF:-1 tvg-id="NBC4NewYorkWNBC.us" tvg-name="NBC 4 New York (WNBC)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",NBC 4 New York (WNBC) (720p)
 https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
-#EXTINF:-1 tvg-id="NBC6MiamiFLWTVJ.us" tvg-name="NBC 6 Miami FL (WTVJ)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VIhINRP.jpg" group-title="Local",NBC 6 Miami FL (WTVJ) (720p)
+#EXTINF:-1 tvg-id="NBC6MiamiFLWTVJ.us" tvg-name="NBC 6 Miami FL (WTVJ)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VIhINRP.jpg" group-title="News",NBC 6 Miami FL (WTVJ) (720p)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/S7ZbPTz.png" group-title="Business",Cheddar (1080p)
 https://live.chdrstatic.com/cheddar/primary/index.m3u8
@@ -172,13 +122,13 @@ https://gma2.blab.email/espnews.m3u8
 #EXTINF:-1 tvg-id="FOXSportHD1.us" tvg-name="FOX Sport HD 1" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",FOX Sport HD 1 (720p)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #PLAYLIST:Entertainment
-#EXTINF:-1 tvg-id="" tvg-name="GUSTO TV (UK)" tvg-logo="https://i.imgur.com/vanl2NZ.jpg" group-title="GERMANY SG TV PLUS",GUSTO TV (UK)
+#EXTINF:-1 tvg-id="" tvg-name="GUSTO TV (UK)" tvg-logo="https://i.imgur.com/vanl2NZ.jpg" group-title="Food",GUSTO TV (UK)
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="GERMANY SG TV PLUS",Tastemade
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="Food",Tastemade
 https://tastemade-de-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="USA PLUTO",BBC Food
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Food",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="Masters of Food (UK)" tvg-logo="https://i.imgur.com/Km6qv8C.png" group-title="GERMANY SG TV PLUS",Masters of Food (UK)
+#EXTINF:-1 tvg-id="" tvg-name="Masters of Food (UK)" tvg-logo="https://i.imgur.com/Km6qv8C.png" group-title="Food",Masters of Food (UK)
 https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB9l6rHPU5feWQg5I7xyag5bc9-fS-suqi5sg=s900-mo-c-c0xffffffff-rj-k-no" group-title="Food",Tastemade (1080p)
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
@@ -255,6 +205,8 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",The Film Detective (720p)
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:0 tvg-name="FOX Movies Premium" tvg-language="English" tvg-country="MY" tvg-id="FOX Movies Premium" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-RTXtxs8-yQC5fGxC3I3QndFDnzvBLWpk8YSDejzmuMrp_2byRPijNw" group-title="Movie Channels",FOX Movies Premium (Movie Channels) (MY) (English)
+http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us" tvg-name="TVS Travel Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="Travel",TVS Travel Network (720p)
 https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",WOW! TV (720p)
@@ -263,4 +215,40 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://187.188.147.165:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="PrivateTV.us" tvg-name="Private TV" tvg-country="US" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" group-title="XXX",Private TV
 http://87.207.71.147:4000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="Reality Kings TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JhmIPpq.png" group-title="XXX",Reality Kings TV
+
+#EXTINF:0,xmltv.php?username=nestorpereiralinares@hotmail.com&password=hn4tgefc3e&type=m3u_plus&output=ts
+http://iconic-streams.com/xmltv.php?username=nestorpereiralinares@hotmail.com&password=hn4tgefc3e&type=m3u_plus&output=ts
+#EXTINF:0,IE: RTÉ News FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/3510
+#EXTINF:0,UK: BBC One FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/4075
+#EXTINF:0,UK: BBC Two FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/4216
+#EXTINF:0,UK: BBC Four FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/4205
+#EXTINF:0,UK: BBC Two Northern Ireland
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/10042
+#EXTINF:0,UK: Channel 4 FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2982
+#EXTINF:0,UK: Skʌɪ Atlantic FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/3000
+#EXTINF:0,UK: Skʌɪ Cinema Greats FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/8913
+#EXTINF:0,UK: Skʌɪ Cinema Select FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/8910
+#EXTINF:0,UK: Skʌɪ History2 FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/3523
+#EXTINF:0,UK: Sony Classic
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2993
+#EXTINF:0,UK: TCM Movies 
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2436
+#EXTINF:0,UK: Skʌɪ Sports Main Event
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/9546
+#EXTINF:0,UK: Skʌɪ Sports Premier League FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/8895
+#EXTINF:0,UK: Discovery History
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2413
+#EXTINF:0,UK: PBS America
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/6330
+#EXTINF:0,UK: Smithsonian Channel FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/9724
