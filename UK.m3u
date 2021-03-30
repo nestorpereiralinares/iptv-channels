@@ -38,3 +38,38 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="Film4UK.uk" tvg-name="Film 4 UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Film 4 UK
 http://51.52.156.22:8888/http/008
+#EXTINF:0,IE: RTÉ News FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/3510
+#EXTINF:0,UK: BBC One FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/4075
+#EXTINF:0,UK: BBC Two FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/4216
+#EXTINF:0,UK: BBC Four FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/4205
+#EXTINF:0,UK: BBC Two Northern Ireland
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/10042
+#EXTINF:0,UK: Channel 4 FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2982
+#EXTINF:0,UK: Skʌɪ Atlantic FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/3000
+#EXTINF:0,UK: Skʌɪ Cinema Greats FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/8913
+#EXTINF:0,UK: Skʌɪ Cinema Select FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/8910
+#EXTINF:0,UK: Skʌɪ History2 FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/3523
+#EXTINF:0,UK: Sony Classic
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2993
+#EXTINF:0,UK: TCM Movies 
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2436
+#EXTINF:0,UK: Skʌɪ Sports Main Event
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/9546
+#EXTINF:0,UK: Skʌɪ Sports Premier League FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/8895
+#EXTINF:0,UK: Discovery History
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/2413
+#EXTINF:0,UK: PBS America
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/6330
+#EXTINF:0,UK: Smithsonian Channel FHD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/9724
+
