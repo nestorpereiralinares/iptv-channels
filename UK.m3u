@@ -47,6 +47,8 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="Film4UK.uk" tvg-name="Film 4 UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Movies",Film 4 UK
 http://51.52.156.22:8888/http/008
+#EXTINF:0 tvg-name="AXN" tvg-language="English" tvg-country="UK" tvg-id="AXN" tvg-logo="http://cdn.lipstiq.com/wp-content/uploads/2015/10/112.jpg" group-title="Movie Channels",AXN (Movie Channels) (UK) (English)
+http://178.21.120.198:1935/live3/_definst_/mp4:axn/playlist.m3u8
 #EXTINF:0,xmltv.php?username=nestorpereiralinares@hotmail.com&password=hn4tgefc3e&type=m3u_plus&output=ts
 http://iconic-streams.com/xmltv.php?username=nestorpereiralinares@hotmail.com&password=hn4tgefc3e&type=m3u_plus&output=ts
 #EXTINF:0,IE: RTÉ News FHD
