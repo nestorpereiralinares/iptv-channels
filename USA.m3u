@@ -3,6 +3,7 @@
 channels/uk.m3u
 #EXTINF:-1,United States
 channels/us.m3u
+#PLAYLIST:News
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="News",CNN (720p)
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
@@ -39,8 +40,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 https://live.chdrstatic.com/cheddar/primary/index.m3u8
 #EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",Fox News (720p)
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-
-
+#PLAYLIST:Sports
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",ESPN (720p)
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",ESPN 2 (720p)
@@ -49,8 +49,7 @@ https://gma2.blab.email/espn2.m3u8
 https://gma2.blab.email/espnews.m3u8
 #EXTINF:-1 tvg-id="FOXSportHD1.us" tvg-name="FOX Sport HD 1" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",FOX Sport HD 1 (720p)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-
+#PLAYLIST:Entertainment
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB9l6rHPU5feWQg5I7xyag5bc9-fS-suqi5sg=s900-mo-c-c0xffffffff-rj-k-no" group-title="Food",Tastemade (1080p)
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="PeopleTV.us" tvg-name="People TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lSAfKXY.jpg" group-title="General",People TV
@@ -83,10 +82,7 @@ https://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="TMZ.us" tvg-name="TMZ" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Entertainment",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
-
-
-
+#PLAYLIST:Movies
 #EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Warner TV
 http://203.154.243.89:11205/
 #EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Hobby",Love Nature (1080p)
@@ -131,7 +127,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us" tvg-name="TVS Travel Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="Travel",TVS Travel Network (720p)
 https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
-
 #EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",WOW! TV (720p)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayboyTV.us" tvg-name="Playboy TV" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3f/PLAYBOY_TV.jpg" group-title="XXX",Playboy TV
@@ -139,7 +134,7 @@ http://187.188.147.165:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="PrivateTV.us" tvg-name="Private TV" tvg-country="US" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" group-title="XXX",Private TV
 http://87.207.71.147:4000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="Reality Kings TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JhmIPpq.png" group-title="XXX",Reality Kings TV
-http://188.35.9.26:5031/udp/058j
+
 
 
 
