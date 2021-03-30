@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,United Kingdom
-channels/uk.m3u
-#EXTINF:-1,United States
-channels/us.m3u
 #PLAYLIST:News
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1fhqoEE.png" group-title="News",CNN (720p)
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
@@ -18,9 +14,9 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-name="CBS News Boston" tvg-country="US" tvg-language="English" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/logo-cbsn-boston-1920x1080.jpg" group-title="News",CBS News Boston (720p)
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
-#EXTINF:-1 tvg-id="7NewsBostonWHDH.us" tvg-name="7News Boston (WHDH)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="Local",7News Boston (WHDH) (540p)
+#EXTINF:-1 tvg-id="7NewsBostonWHDH.us" tvg-name="7News Boston (WHDH)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="News",7News Boston (WHDH) (540p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 tvg-id="FOX Boston-US" tvg-name="FOX Boston-US" tvg-country="US" tvg-language="English" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="Local",Boston 25 News (WFXT)
+#EXTINF:-1 tvg-id="FOX Boston-US" tvg-name="FOX Boston-US" tvg-country="US" tvg-language="English" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="News",Boston 25 News (WFXT)
 https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
 #EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Entertainment",A&E (Best of) (1080p)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
@@ -30,11 +26,11 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsDigital10.us" tvg-name="ABC News Digital 10" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 10 (720p)
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",NBC (720p)
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",NBC (720p)
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-id="NBC4NewYorkWNBC.us" tvg-name="NBC 4 New York (WNBC)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",NBC 4 New York (WNBC) (720p)
+#EXTINF:-1 tvg-id="NBC4NewYorkWNBC.us" tvg-name="NBC 4 New York (WNBC)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",NBC 4 New York (WNBC) (720p)
 https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
-#EXTINF:-1 tvg-id="NBC6MiamiFLWTVJ.us" tvg-name="NBC 6 Miami FL (WTVJ)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VIhINRP.jpg" group-title="Local",NBC 6 Miami FL (WTVJ) (720p)
+#EXTINF:-1 tvg-id="NBC6MiamiFLWTVJ.us" tvg-name="NBC 6 Miami FL (WTVJ)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VIhINRP.jpg" group-title="News",NBC 6 Miami FL (WTVJ) (720p)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/S7ZbPTz.png" group-title="Business",Cheddar (1080p)
 https://live.chdrstatic.com/cheddar/primary/index.m3u8
@@ -50,6 +46,14 @@ https://gma2.blab.email/espnews.m3u8
 #EXTINF:-1 tvg-id="FOXSportHD1.us" tvg-name="FOX Sport HD 1" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sport",FOX Sport HD 1 (720p)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #PLAYLIST:Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="GUSTO TV (UK)" tvg-logo="https://i.imgur.com/vanl2NZ.jpg" group-title="Food",GUSTO TV (UK)
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="Food",Tastemade
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Food",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Masters of Food (UK)" tvg-logo="https://i.imgur.com/Km6qv8C.png" group-title="Food",Masters of Food (UK)
+https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB9l6rHPU5feWQg5I7xyag5bc9-fS-suqi5sg=s900-mo-c-c0xffffffff-rj-k-no" group-title="Food",Tastemade (1080p)
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="PeopleTV.us" tvg-name="People TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lSAfKXY.jpg" group-title="General",People TV
@@ -133,4 +137,4 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://187.188.147.165:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="PrivateTV.us" tvg-name="Private TV" tvg-country="US" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" group-title="XXX",Private TV
 http://87.207.71.147:4000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="Reality Kings TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JhmIPpq.png" group-title="XXX",Reality Kings TV
+#EXTINF:-1 tvg-id="RealityKingsTV.us" tvg-name="Reality Kings TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JhmIPpq.png" group-title="XXX",Reality Kings T
