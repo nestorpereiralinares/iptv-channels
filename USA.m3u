@@ -129,6 +129,8 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",The Film Detective (720p)
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:0 tvg-name="FOX Movies Premium" tvg-language="English" tvg-country="MY" tvg-id="FOX Movies Premium" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-RTXtxs8-yQC5fGxC3I3QndFDnzvBLWpk8YSDejzmuMrp_2byRPijNw" group-title="Movie Channels",FOX Movies Premium (Movie Channels) (MY) (English)
+http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us" tvg-name="TVS Travel Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="Travel",TVS Travel Network (720p)
 https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",WOW! TV (720p)
