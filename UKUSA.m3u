@@ -100,7 +100,13 @@ http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/6330
 #EXTINF:0,UK: Smithsonian Channel FHD
 http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/9724
 
-
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="News",BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="News",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="News",CTV News Live 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
 
 
 
