@@ -43,6 +43,18 @@ http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-id="SpotlightTV.uk" tvg-name="Spotlight TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/axXipp8.png" group-title="News",Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 #PLAYLIST:Movies
+#EXTINF:0 tvg-name="Sky Movies Action" tvg-language="English" tvg-country="UK" tvg-id="Sky Movies Action" tvg-logo="http://www.skygo.co.nz/_content/channel_logos/logo_032_127x58.png" group-title="Movie Channels",Sky Movies Action (Movie Channels) (UK) (English)
+http://iptv-supplier.com:8000/live/mad/mad/300.m3u8
+#EXTINF:0 tvg-name="Sky Movies Comedy" tvg-language="English" tvg-country="UK" tvg-id="Sky Movies Comedy" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaXgdsi3ci4rfULgfpRzpneUoCho1rbHKBmOlnov09LYK_Mwhn5G2Cww" group-title="Movie Channels",Sky Movies Comedy (Movie Channels) (UK) (English)
+http://iptv-supplier.com:8000/live/mad/mad/311.m3u8
+#EXTINF:0 tvg-name="Sky Movies Drama" tvg-language="English" tvg-country="UK" tvg-id="Sky Movies Drama" tvg-logo="http://img.joinskyhd.co.uk/moviesdrama.gif" group-title="Movie Channels",Sky Movies Drama (Movie Channels) (UK) (English)
+http://iptv-supplier.com:8000/live/mad/mad/299.m3u8
+#EXTINF:0 tvg-name="Sky Movies Family" tvg-language="English" tvg-country="UK" tvg-id="Sky Movies Family" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/-Sky-Movies-Family.png/revision/latest/scale-to-width-down/250?cb=20111118185720" group-title="Movie Channels",Sky Movies Family (Movie Channels) (UK) (English)
+http://iptv-supplier.com:8000/live/mad/mad/309.m3u8
+#EXTINF:0 tvg-name="Sky Movies Greats" tvg-language="English" tvg-country="UK" tvg-id="Sky Movies Greats" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9a/Sky-Movies-Modern-Greats.png/revision/latest%3Fcb%3D20111118190641" group-title="Movie Channels",Sky Movies Greats (Movie Channels) (UK) (English)
+http://iptv-supplier.com:8000/live/mad/mad/295.m3u8
+#EXTINF:0 tvg-name="Sky Movies Premiere" tvg-language="English" tvg-country="UK" tvg-id="Sky Movies Premiere" tvg-logo="http://img.joinskyhd.co.uk/moviespremiere.gif" group-title="Movie Channels",Sky Movies Premiere (Movie Channels) (UK) (English)
+http://iptv-supplier.com:8000/live/mad/mad/293.m3u8
 #EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-name="The Box UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Music",The Box UK (576p)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="Film4UK.uk" tvg-name="Film 4 UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Movies",Film 4 UK
