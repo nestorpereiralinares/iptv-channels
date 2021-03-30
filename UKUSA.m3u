@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,UK
 #PLAYLIST:News
-#EXTINF:0 tvg-name="BBC One YkandLi" tvg-logo="file:////storage/emulated/0/Download/picons/bbc1.png",BBC One HD
+#EXTINF:0 tvg-name="BBC One " tvg-logo="file:////storage/emulated/0/Download/picons/bbc1.png",BBC One HD
 http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
-#EXTINF:0 tvg-name="BBC Two Eng" tvg-logo="file:////storage/emulated/0/Download/picons/bbc2.png",BBC Two HD
+#EXTINF:0 tvg-name="BBC Two" tvg-logo="file:////storage/emulated/0/Download/picons/bbc2.png",BBC Two HD
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News (720p) [Geo-blocked]
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
