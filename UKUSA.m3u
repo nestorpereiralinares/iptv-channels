@@ -215,7 +215,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://187.188.147.165:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="PrivateTV.us" tvg-name="Private TV" tvg-country="US" tvg-language="English" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/private-tv-1.jpg" group-title="XXX",Private TV
 http://87.207.71.147:4000/play/a03b/index.m3u8
-
 #EXTINF:0,xmltv.php?username=nestorpereiralinares@hotmail.com&password=hn4tgefc3e&type=m3u_plus&output=ts
 http://iconic-streams.com/xmltv.php?username=nestorpereiralinares@hotmail.com&password=hn4tgefc3e&type=m3u_plus&output=ts
 #EXTINF:0,IE: RTÉ News FHD
